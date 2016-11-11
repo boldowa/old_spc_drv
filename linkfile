@@ -1,0 +1,8 @@
+[objects]
+main.o
+
+[header]
+ID666.dat
+
+[footer]
+DSP_and_XID6.dat

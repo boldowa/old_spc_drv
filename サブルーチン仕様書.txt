@@ -1,0 +1,6 @@
+
+
+○GetSeqParam
+  ・YとAにAddrTmpの位置の1byteが代入される
+  ・AddrTmpはインクリメントされる
+
